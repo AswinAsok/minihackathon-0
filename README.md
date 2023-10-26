@@ -10,15 +10,13 @@ Welcome to our 3-hour Mini Hackathon! Geared towards beginners and first-timers,
 - Add your source code files to this folder.
 - Inside the folder, create a README.md file with the following information:
 ```
-# [Team Name]
+# Aswin Asok
 
 ### Team Members:
-- [Member 1]
-- [Member 2]
-- [Member 3]
+- Aswin Asok
 
 ### Project Title:
-[Your Project's Title]
+
 
 ### Description:
 [Brief description of what you built]
